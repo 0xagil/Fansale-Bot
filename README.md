@@ -37,6 +37,10 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   sudo apt-get -y install python3-pip
   ```
+* Cookie Farming API for bypassing AKAMAI
+  ``sh
+  atm valid cookies are obtained from any other challenge url except the target ticket site since their latest bot protection update
+  ```
 
 ### Installation
 
