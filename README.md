@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps:
 * Please research the legal status of reselling tickets in your country.
 * This porgram is for educational purpose only!
 * Do not DDOS their website with too many requests.
-* 
+
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
