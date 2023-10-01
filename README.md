@@ -20,12 +20,12 @@ Purchase your preferred tickets effortlessly through Fansale and Eventim automat
 To get a local copy up and running follow these simple example steps:
 
 ## Disclaimer
-Only buy the Tickets for yourself. 
-Do not resell those tickets on platforms like eBay or Viagogo.
-Please research the legal status of reselling tickets in your country.
-This porgram is for educational purpose only!
-Do not DDOS their website with too many requests.
-
+* Only buy the Tickets for yourself.
+* Do not resell those tickets on platforms like eBay or Viagogo.
+* Please research the legal status of reselling tickets in your country.
+* This porgram is for educational purpose only!
+* Do not DDOS their website with too many requests.
+* 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
