@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
     <h3 align="center"> Automated Ticket Buying on Fansale and Eventim </h3>
+    <h4 align="center"> Currently this solution will be too slow! </h3>
 </div>
 
       █████▒▄▄▄       ███▄    █   ██████  ▄▄▄       ██▓    ▓█████     ▄▄▄▄    ▒█████  ▄▄▄█████▓
